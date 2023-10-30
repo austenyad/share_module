@@ -1,4 +1,4 @@
-package com.austen.gitlearn
+package com.austen.share_module
 
 import org.junit.Test
 
